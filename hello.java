@@ -3,7 +3,6 @@ class hello{
         System.out.println("Hello Java!");
 
         System.out.println("Hello GitHub");
-        
-
+        System.out.println("Hello GitHub");
     }
     }
